@@ -13,6 +13,12 @@
 
 */
 
+
+/*
+  code by Reynald Lamury
+*/
+
+
 $array_number = [1, 1, 4, 4, 4, 5, 5, 6, 8, 9, 10, 10, 12, 13, 13, 17];
 
 // map each number and occurences 

@@ -15,6 +15,11 @@
 */
 
 
+/*
+  code by Reynald Lamury
+*/
+
+
 $array_number = [2, 1, 5, 7, 4, -8, -3, -1];
 
 function validateREsult($inputArr, $inputAdditionNum)
